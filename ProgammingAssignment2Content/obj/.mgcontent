@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/william/Documents/Visual Studio 2015/Projects/ProgrammingAssignment2/ProgammingAssignment2Content/graphics/character0.png</File>
+    <File>C:/Users/william/Documents/Visual Studio 2015/Projects/ProgrammingAssignment2/ProgammingAssignment2Content/graphics/character2.png</File>
+    <File>C:/Users/william/Documents/Visual Studio 2015/Projects/ProgrammingAssignment2/ProgammingAssignment2Content/graphics/character1.gif</File>
+    <File>C:/Users/william/Documents/Visual Studio 2015/Projects/ProgrammingAssignment2/ProgammingAssignment2Content/graphics/character1.png</File>
+  </SourceFiles>
+</SourceFileCollection>
